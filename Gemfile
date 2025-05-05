@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 # Specify your gem's dependencies in codebook.gemspec.
 gemspec
 
-gem "tailwindcss-rails", "~> 2.0"
+gem "tailwindcss-rails", "~> 4.2"
 gem "stimulus-rails"
 gem "turbo-rails"
 gem "jsbundling-rails"
